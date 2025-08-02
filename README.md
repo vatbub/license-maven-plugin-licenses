@@ -9,6 +9,7 @@ extended with some more licenses.
 |-------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | GNU General Public License v2.0 w/Classpath exception | `\Qhttps://openjdk.java.net/legal/gplv2+ce.html\E`       | `https://raw.githubusercontent.com/vatbub/license-maven-plugin-licenses/main/GPLv2%20%2B%20Classpath%20Exception.txt` |
 | LGPL 2.1                                              | `\Qhttps://www.gnu.org/licenses/old-licenses/lgpl-2.1\E` | `https://raw.githubusercontent.com/vatbub/license-maven-plugin-licenses/main/lgpl2-1.txt`                             |
+| LGPL                                                  | `\Qhttp://www.gnu.org/licenses/lgpl.html\E`              | `https://raw.githubusercontent.com/vatbub/license-maven-plugin-licenses/main/lgpl.txt`                                |
 
 ## Usage
 
